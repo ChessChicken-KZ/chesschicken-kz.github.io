@@ -1,0 +1,76 @@
+head {
+	background-color: rgb(175,0,255);
+	background-color: linear-gradient(90deg, rgba(175,0,255,1) 0%, rgba(40,68,122,1) 100%); 
+}
+
+body {
+	font-family: Courier New, Courier;
+	line-height: 2;
+}
+
+h2 {
+	text-align: center;
+}
+
+h1 {
+	color: white;
+}
+
+hr {
+	color: white;
+}
+
+url {
+	color: white;
+}
+
+ul {
+	padding: 0;
+}
+
+p {
+	color: white;
+}
+
+ul.header_l li.header_l {
+	font: Courier;
+	font-size: 20px;
+	list-style-type: none;
+	display: inline-block;
+	margin-right: 15px;
+	margin-left: 15px;
+}
+
+a {
+	display: block;
+	color: #778899;
+}
+
+a:link {
+  color: #475dff;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:visited {
+
+  color: #a047ff;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:hover {
+  color: blue;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+a:active {
+  color: blue;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+body {
+  background-color: #33334d;
+}
