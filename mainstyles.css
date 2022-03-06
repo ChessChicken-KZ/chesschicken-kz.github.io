@@ -1,10 +1,10 @@
 head {
 	background-color: rgb(175,0,255);
-	background-color: linear-gradient(90deg, rgba(175,0,255,1) 0%, rgba(40,68,122,1) 100%); 
+	background-color: linear-gradient(90deg, rgba(175,0,255,1) 0%, rgba(40,68,122,1) 100%);
 }
 
 body {
-	font-family: Courier New, Courier;
+	font-family: 'Courier New', monospace;
 	line-height: 2;
 }
 
@@ -54,7 +54,7 @@ a:link {
 
 a:visited {
 
-  color: #a047ff;
+  color: #c48cff;
   background-color: transparent;
   text-decoration: none;
 }
@@ -72,5 +72,5 @@ a:active {
 }
 
 body {
-  background-color: #33334d;
+  background-color: #1e1e43;
 }
