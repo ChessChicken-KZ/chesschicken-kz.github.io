@@ -8,8 +8,12 @@ body {
 	line-height: 2;
 }
 
+h3 {
+	color: white;
+}
+
 h2 {
-	text-align: center;
+	color: white;
 }
 
 h1 {
