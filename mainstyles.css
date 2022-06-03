@@ -1,10 +1,15 @@
-header {
+head {
+	background-color: #616161;
+}
+
+#header {
 	background-color: #616161;
 }
 
 body {
 	margin: 0;
 	background-color: #212121;
+	background-size: cover;
 }
 
 main {
