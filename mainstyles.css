@@ -5,23 +5,25 @@ html {
 #page-container {
   position: relative;
   min-height: 100vh;
+	width: 100%;
 }
 
 #content-wrap {
-  padding-bottom: 6rem;    /* Footer height */
+  padding-bottom: 6rem;
+	width: 100%;
 }
 
 #footer {
   position: absolute;
   bottom: 0;
   width: 100%;
-  height: 6rem;            /* Footer height */
+  height: 6rem;
 }
 
 body {
-    background: linear-gradient(to bottom, #212121, #242425, #25272a, #272a2f, #272d33, #272f35, #263036, #263238, #263238, #263238, #263238, #263238);
+	background-color: #263238;
 	height: 100%;
-    margin: 0;
+	margin: 0;
 }
 
 main {
@@ -29,8 +31,8 @@ main {
 	font-family: 'Courier New', monospace;
 	line-height: 2;
 	background-size: cover;
-    overflow: auto;
-  	padding-bottom: 180px;
+	overflow: auto;
+	padding-bottom: 180px;
 }
 
 ul {
