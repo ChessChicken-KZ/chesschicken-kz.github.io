@@ -1,9 +1,10 @@
-head {
+header {
 	background-color: #616161;
 }
 
 body {
 	margin: 0;
+	background-color: #212121;
 }
 
 main {
@@ -11,10 +12,12 @@ main {
 	font-family: 'Courier New', monospace;
 	line-height: 2;
 	background-size: cover;
+	width: 100%;
+	height: 100%;
 }
 
 footer {
-	
+
 }
 
 h3 {
