@@ -145,6 +145,7 @@ a.a_click:link, a.a_click:visited {
   font-family: serif;
   line-height: 1.2;
   display: inline;
+	text-indent: 3ch;
 }
 
 #textholder h1 {
