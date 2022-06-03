@@ -9,8 +9,6 @@ html {
 
 #content-wrap {
   padding-bottom: 6rem;    /* Footer height */
-	position: relative;
-	right: -15px;
 }
 
 #footer {
