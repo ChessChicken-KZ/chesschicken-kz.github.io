@@ -137,3 +137,53 @@ a.a_click:link, a.a_click:visited {
   	text-decoration: none;
 	display: inline-block;
 }
+
+/* Cool text holder thing. I love my work. :P */
+
+#textholder p {
+  color: #000000;
+  font-family: serif;
+  line-height: 1.2;
+  display: inline;
+}
+
+#textholder h1 {
+  color: #000000;
+  font-family: serif;
+  line-height: 1.2;
+  display: inline;
+}
+
+#textholder h2 {
+  color: #000000;
+  font-family: serif;
+  line-height: 1.2;
+  display: inline;
+}
+
+#textholder h3 {
+  color: #000000;
+  font-family: serif;
+  line-height: 1.2;
+  display: inline;
+}
+
+#textholder a {
+	font-family: serif;
+  line-height: 1.2;
+  display: inline;
+}
+
+#textholder li {
+position: relative;
+  left: 15px;
+  display: inline;
+}
+
+#textholder {
+  background-color: #FFFFFF;
+  margin: auto;
+  width: 94%;
+  padding: 10px;
+  border-style: inset;
+}
