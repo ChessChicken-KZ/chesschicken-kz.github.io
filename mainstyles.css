@@ -3,10 +3,18 @@ head {
 }
 
 body {
+	margin: 0;
+}
+
+main {
 	background: linear-gradient(to bottom, #212121, #242425, #25272a, #272a2f, #272d33, #272f35, #263036, #263238, #263238, #263238, #263238, #263238);
 	font-family: 'Courier New', monospace;
 	line-height: 2;
-  background-size: cover;
+	background-size: cover;
+}
+
+footer {
+	
 }
 
 h3 {
